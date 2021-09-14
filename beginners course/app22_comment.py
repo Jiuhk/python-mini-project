@@ -1,0 +1,6 @@
+print("fuck you bitch")
+# print("fuck you bitch")
+# print("fuck you bitch")
+print("fuck you bitch")
+print("fuck you bitch")
+print("fuck you bitch")
